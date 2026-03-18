@@ -30,7 +30,7 @@ const HERO_SLIDES = [
     description: "Curated skincare and beauty essentials from the world's most prestigious laboratories, now available across the UK."
   },
   {
-    image: "https://cdn.pixabay.com/photo/2026/03/16/22/36/22-36-11-80__340.jpg",
+    image: "https://images.unsplash.com/photo-1702312721918-62235a0b77d2?q=80&w=801&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     tag: "New Arrival",
     title: <>The Science of <br /><span className="italic">Glow</span></>,
     description: "Discover our latest vitamin-enriched serums designed to brighten and protect your skin all day long."
